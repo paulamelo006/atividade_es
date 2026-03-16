@@ -14,3 +14,10 @@ Este sistema pode ser utilizado por estudantes, profissionais e equipes de traba
 - Maria Oliveira 
 - Carlos Souza 
 - Ana Pereira 
+
+## Tecnologias Utilizadas
+
+| Linguagem de programação: JavaScript | JavaScript |
+| :--- | :---: |
+| Banco de dados: PostgreSQL | PostgreSQL |
+| Interface: HTML e CSS | HTML e CSS |
