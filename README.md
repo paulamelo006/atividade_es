@@ -1,2 +1,16 @@
-# atividade_es
-atividade da aula 3 de eng. de software I
+# Projeto: Sistema de Gerenciamento de Tarefas 
+## Descrição do Sistema 
+O Sistema de Gerenciamento de Tarefas tem como objetivo ajudar usuários a organizar  suas atividades diárias, permitindo registrar tarefas, definir prioridades e acompanhar o  progresso das atividades. 
+Este sistema pode ser utilizado por estudantes, profissionais e equipes de trabalho que  desejam melhorar sua organização. 
+
+## Principais Funcionalidades 
+- Criar novas tarefas 
+- Editar tarefas existentes 
+- Marcar tarefas como concluídas 
+- Visualizar lista de tarefas 
+- Definir prioridade das tarefas 
+## Equipe do Projeto 
+- João Silva 
+- Maria Oliveira 
+- Carlos Souza 
+- Ana Pereira 
